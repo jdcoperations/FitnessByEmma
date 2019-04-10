@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Welcome" 
+             NavigationPage.HasNavigationBar="False"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Fitness"
+             x:Class="Fitness.MainPage"
+             >
+
+    <StackLayout BackgroundColor="HotPink" Padding="40,40,40,40">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Fitness By Emma!"
+               TextColor="White"
+               FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="Click Here to Enter" Clicked="Button_Clicked" />
+    </StackLayout>
+
+</ContentPage>

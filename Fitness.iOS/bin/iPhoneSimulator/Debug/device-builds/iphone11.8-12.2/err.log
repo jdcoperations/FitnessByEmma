@@ -1,0 +1,29 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-04-10 20:07:20.446017+0100 Fitness.iOS[1569:43588] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:10000: Connection refused
+2019-04-10 20:07:21.045427+0100 Fitness.iOS[1569:43551] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1569
+2019-04-10 20:07:21.045607+0100 Fitness.iOS[1569:43551] SecTaskCopyDebugDescription: Fitness.iOS[1569]/0#-1 LF=0
+2019-04-10 20:07:34.116669+0100 Fitness.iOS[1569:43551] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1569
+2019-04-10 20:07:34.116860+0100 Fitness.iOS[1569:43551] SecTaskCopyDebugDescription: Fitness.iOS[1569]/0#-1 LF=0
+2019-04-10 20:07:34.413604+0100 Fitness.iOS[1569:43820] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1569
+2019-04-10 20:07:34.413812+0100 Fitness.iOS[1569:43820] SecTaskCopyDebugDescription: Fitness.iOS[1569]/0#-1 LF=0
+2019-04-10 20:07:35.420471+0100 Fitness.iOS[1569:43858] WF: === Starting WebFilter logging for process Fitness.iOS
+2019-04-10 20:07:35.420646+0100 Fitness.iOS[1569:43858] WF: _WebFilterIsActive returning: NO
+2019-04-10 20:07:37.327781+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.328022+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.328190+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1x-1 [01010000,02FF02D0] 0001C060
+2019-04-10 20:07:37.328499+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.328663+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.328815+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1280x720 [FFFFFFFF,FFFFFFFF] 0001C060
+2019-04-10 20:07:37.329103+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.329231+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.329368+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1280x720 [FFFFFFFF,FFFFFFFF] 0001C060
+2019-04-10 20:07:37.329640+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.329761+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.329915+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1x-1 [01010000,02FF02D0] 0001C060
+2019-04-10 20:07:37.330177+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.330329+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.330504+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1280x720 [FFFFFFFF,FFFFFFFF] 0001C060
+2019-04-10 20:07:37.330740+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding failed with error code 7
+2019-04-10 20:07:37.330863+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Decoding: C0 0x050002D0 0x0000304A 0x22111100 0x00000000 1002
+2019-04-10 20:07:37.331013+0100 Fitness.iOS[1569:43858] [0x7feff6b9fc00] Options: 1280x720 [FFFFFFFF,FFFFFFFF] 0001C060
+2019-04-10 20:08:17.167471+0100 Fitness.iOS[1569:43858] WF: _WebFilterIsActive returning: NO

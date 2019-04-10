@@ -1,0 +1,4 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-01-25 09:25:45.932549+0000 Fitness.iOS[5424:231245] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:10000: Connection refused
+2019-01-25 09:25:46.468040+0000 Fitness.iOS[5424:231226] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=5424
+2019-01-25 09:25:46.468242+0000 Fitness.iOS[5424:231226] SecTaskCopyDebugDescription: Fitness.iOS[5424]/0#-1 LF=0
